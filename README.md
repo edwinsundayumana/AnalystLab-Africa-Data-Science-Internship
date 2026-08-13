@@ -1,36 +1,17 @@
-# Employee Attrition Analysis – ABC Manufacturing Ltd
+# AnalystLab Africa – Data Science Internship Portfolio
 
-## Project Overview
-This project is part of the **Week 1 Assignment** of the **AnalystLab Africa Data Science Internship Programme**. As a Junior Data Scientist at AnalystLab Africa Consulting, I was engaged by **ABC Manufacturing Ltd** to investigate employee attrition. The HR department wants to understand why employees are leaving before investing in predictive machine learning models.
+This repository documents my weekly projects as a Data Science Intern at **AnalystLab Africa**. Each week I tackle a new business problem and apply the full data science workflow — from business understanding and data cleaning to feature engineering, visualisation, and machine learning.
 
-## Business Problem
-ABC Manufacturing Ltd is experiencing employee turnover. The goal of this project is to perform an initial exploratory data analysis on historical HR data to understand the workforce and identify key factors contributing to attrition.
+## 📂 Projects
 
-## Business Questions
-1. What does the company's workforce look like?
-2. Which departments have the highest employee attrition?
-3. Does age influence attrition?
-4. Does monthly income affect retention?
-5. Does overtime influence attrition?
-6. Which job roles experience the highest turnover?
-7. Which variables appear important for future predictive modelling?
+| Week | Project | Folder | Key Skills |
+|------|---------|--------|------------|
+| Week 1 | Employee Attrition Analysis (EDA) | [Week-1](./Week-1-Employee-Attrition-Analysis) | Pandas, EDA, Matplotlib/Seaborn, Business Insights |
+| Week 2 | Loan Prediction – Feature Engineering & Preprocessing | [Week-2](./Week-2-Loan-Prediction-Preprocessing) | Data Cleaning, Encoding, Scaling, IQR Outlier Handling, Feature Selection |
 
-## Dataset
-- **Source:** [IBM HR Analytics – Employee Attrition & Performance (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- **Size:** 1,470 employee records × 35 features
-- **Target Variable:** Attrition (Yes / No)
+*New weeks will be added as the internship progresses.*
 
-## Tools Used
-- Python (Google Colab)
-- Pandas & NumPy (data manipulation)
-- Matplotlib & Seaborn (visualisation)
-- Git & GitHub (version control)
+## 👤 Author
+**Edwin Sunday Umana** — Data Science Intern at AnalystLab Africa
 
-## Key Insights
-- **Overall attrition rate is 16.1%** (237 out of 1,470 employees left).
-- **Overtime is the strongest driver:** ~30.5% of overtime workers left vs ~10.4% of non-overtime workers.
-- **Sales department** has the highest attrition rate (~20.6%) vs R&D (~13.8%).
-- **Younger employees** are more likely to leave (leavers' median age ~30 vs ~36 for stayers).
-- **Lower monthly income** correlates with attrition (leavers' median < $3,000 vs ~$5,000 for stayers).
-- **Laboratory Technicians, Sales Executives and Sales Representatives** record the highest turnover.
-- **Key variables for future modelling:** OverTime, Age, MonthlyIncome, Department, JobRole, BusinessTravel.
+*#AnalystLabAfrica*
