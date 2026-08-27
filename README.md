@@ -9,7 +9,7 @@ This repository documents my weekly projects as a Data Science Intern at **Analy
 | Week 1 | Employee Attrition Analysis (EDA) | [Week-1](./Week_1) | Pandas, EDA, Matplotlib/Seaborn, Business Insights |
 | Week 2 | Loan Prediction – Feature Engineering & Preprocessing | [Week-2](./Week_2) | Data Cleaning, Encoding, Scaling, IQR Outlier Handling, Feature Selection |
 | Week 3 | Loan Prediction – Advanced Analysis & Statistical Validation | [Week-3](./Week_3) | Advanced EDA, Hypothesis Testing (T-Test, Chi-Square, Mann-Whitney U, ANOVA), Feature Engineering, Feature Evaluation |
-| Week 4 | HealthConnect No-Show Prediction (Problem Definition) | [Week-4](./week_4) | ML Problem Framing, Target Variable Strategy, Data Leakage Risk Assessment, Binary Classification Planning |
+| Week 4 | HealthConnect No-Show Prediction (Problem Definition) | [Week-4](./Week_4) | ML Problem Framing, Target Variable Strategy, Data Leakage Risk Assessment, Binary Classification Planning |
 
 *New weeks will be added as my internship progresses.*
 
