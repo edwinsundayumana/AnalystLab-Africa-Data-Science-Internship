@@ -1,9 +1,4 @@
-# HealthConnect Experience Lab — Data Science Track
-
-**Programme:** AnalystLab Africa Experience Lab
-**Project:** Improving Patient Appointment Attendance and Healthcare Support Using Data and AI
-**Track:** Data Science
-**Current stage:** Week 8 — Final Integration, Presentation & Project Showcase (project complete)
+# Week 8 — Final Integration, Presentation & Project Showcase (project complete)
 
 ## Project Overview
 
